@@ -1,13 +1,5 @@
 import pandas as pd
-import numpy as np
-import sys
-import tkinter as tk
-from datetime import datetime, timedelta, date, time
-#from tkinter import *
-from tkinter import filedialog,Tk,Button,ttk,Frame,BOTH,Label,Toplevel
-from tkinter.scrolledtext import ScrolledText
 from tkcalendar import *
-import tkinter.font as tkFont
 import seaborn as sns
 import matplotlib.pyplot as plt
 import streamlit as st
